@@ -1,0 +1,38 @@
+2023/12/28-22:16:57.697 2bc0 Reusing MANIFEST C:\Project\wabot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/28-22:16:57.698 2bc0 Recovering log #404
+2023/12/28-22:16:57.782 2bc0 Reusing old log C:\Project\wabot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000404.log 
+2023/12/28-22:17:44.477 274 Level-0 table #421: started
+2023/12/28-22:17:44.561 274 Level-0 table #421: 1138607 bytes OK
+2023/12/28-22:17:44.565 274 Delete type=0 #404
+2023/12/28-22:17:51.916 127c Compacting 1@0 + 1@1 files
+2023/12/28-22:17:52.067 127c Generated table #422@0: 20245 keys, 508465 bytes
+2023/12/28-22:17:52.077 127c Generated table #423@0: 876 keys, 21209 bytes
+2023/12/28-22:17:52.077 127c Compacted 1@0 + 1@1 files => 529674 bytes
+2023/12/28-22:17:52.078 127c compacted to: files[ 0 2 13 0 0 0 0 ]
+2023/12/28-22:17:52.079 127c Delete type=2 #407
+2023/12/28-22:17:52.079 127c Delete type=2 #421
+2023/12/28-22:18:01.935 127c Compacting 1@1 + 10@2 files
+2023/12/28-22:18:02.172 127c Generated table #424@1: 45912 keys, 2225477 bytes
+2023/12/28-22:18:02.249 127c Generated table #425@1: 2906 keys, 2160342 bytes
+2023/12/28-22:18:02.334 127c Generated table #426@1: 5079 keys, 2171268 bytes
+2023/12/28-22:18:02.433 127c Generated table #427@1: 4425 keys, 2166268 bytes
+2023/12/28-22:18:02.534 127c Generated table #428@1: 11592 keys, 2174633 bytes
+2023/12/28-22:18:02.719 127c Generated table #429@1: 30107 keys, 2254738 bytes
+2023/12/28-22:18:02.909 127c Generated table #430@1: 28380 keys, 2251591 bytes
+2023/12/28-22:18:03.036 127c Generated table #431@1: 19948 keys, 2158460 bytes
+2023/12/28-22:18:03.300 127c Generated table #432@1: 89360 keys, 2235833 bytes
+2023/12/28-22:18:03.612 127c Generated table #433@1: 100910 keys, 2251921 bytes
+2023/12/28-22:18:03.647 127c Generated table #434@1: 11740 keys, 265182 bytes
+2023/12/28-22:18:03.647 127c Compacted 1@1 + 10@2 files => 22315713 bytes
+2023/12/28-22:18:03.648 127c compacted to: files[ 0 1 14 0 0 0 0 ]
+2023/12/28-22:18:03.650 127c Delete type=2 #408
+2023/12/28-22:18:03.650 127c Delete type=2 #409
+2023/12/28-22:18:03.650 127c Delete type=2 #410
+2023/12/28-22:18:03.651 127c Delete type=2 #411
+2023/12/28-22:18:03.651 127c Delete type=2 #412
+2023/12/28-22:18:03.651 127c Delete type=2 #413
+2023/12/28-22:18:03.652 127c Delete type=2 #414
+2023/12/28-22:18:03.652 127c Delete type=2 #415
+2023/12/28-22:18:03.652 127c Delete type=2 #416
+2023/12/28-22:18:03.652 127c Delete type=2 #417
+2023/12/28-22:18:03.653 127c Delete type=2 #422
